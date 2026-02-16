@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1771215812422" clover="3.2.0">
-  <project timestamp="1771215812422" name="All files">
+<coverage generated="1771217783081" clover="3.2.0">
+  <project timestamp="1771217783081" name="All files">
     <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2" elements="23" coveredelements="23" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
     <file name="BMICalculator.js" path="D:\project\bmi-app-test\src\BMICalculator.js">
       <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
